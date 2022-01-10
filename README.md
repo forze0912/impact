@@ -6,9 +6,9 @@ A simple progamming language that makes gui easy and fast to make!
 
 Install the git with the main.exe
 
-aftwards create a file with a .impact extension.
+Afterwards create a file with a .impact extension.
 
-after all of that open Command Prompt or Terminal and run "Path/to/exe Yourfile.impact"
+After all of that open Command Prompt or Terminal and run "Path/to/exe Yourfile.impact"
 
 It should start to run
 
