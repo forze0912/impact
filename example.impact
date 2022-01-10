@@ -1,0 +1,7 @@
+using GUI
+
+gui window ;
+
+window.run 500x500
+
+// Makes a simple GUI
