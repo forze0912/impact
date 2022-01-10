@@ -12,4 +12,4 @@ after all of that open Command Prompt or Terminal and run "Path/to/exe Yourfile.
 
 It should start to run
 
-Please note that this a the first versian of it, it may have bugs.
+Please note that this a the first version of it, it may have bugs.
