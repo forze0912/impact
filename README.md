@@ -4,7 +4,7 @@ A simple progamming language that makes gui easy and fast to make!
 
 # Setup!
 
-Install the git with the main.exe
+Install the file with the impact.exe
 
 Afterwards create a file with a .impact extension.
 
