@@ -1,7 +1,7 @@
-using GUI
+// GUI
+
+gui.title Hello World! ;
 
 gui window ;
 
 window.run 500x500
-
-// Makes a simple GUI
