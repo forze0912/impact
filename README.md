@@ -19,4 +19,4 @@ It should start to run
   For installing packages, use iget install <github url>
   for updating packages, use iget update <github url> <package name>.
 
-Please note that this a the first version of it, it may have bugs.
+Please note that this a the first version of this framework, it may have bugs.
