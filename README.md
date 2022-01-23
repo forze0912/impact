@@ -16,6 +16,7 @@ It should start to run
 
 # Iget! The package manager.
   For the actual manager please go to https://github.com/forze0912/impact/releases/tag/iget.
+  To use the manager, run source <path/to/iget.sh>. Make sure you are using a shell.
   For installing packages, use iget install <github url>
   for updating packages, use iget update <github url> <package name>.
 
