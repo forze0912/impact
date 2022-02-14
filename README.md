@@ -14,10 +14,4 @@ After all of that open Command Prompt or Terminal and run "Path/to/exe Yourfile.
 
 It should start to run
 
-# Iget! The package manager.
-  For the actual manager please go to https://github.com/forze0912/impact/releases/tag/iget.
-  To use the manager, run source <path/to/iget.sh>. Make sure you are using a shell and you have git installed.
-  For installing packages, use iget install <github url>
-  for updating packages, use iget update <github url> <package name>.
-
-Please note that this a the first version of this framework, it may have bugs.
+Please note that mac has the most up-to-date version of Impact. Some functions won't work in windows.
