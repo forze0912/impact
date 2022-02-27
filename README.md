@@ -1,7 +1,6 @@
 # Impact!
 
-A simple progamming language that makes gui easy and fast to make!
-
+A simple progamming language that makes life easier for app development
 In development right now, only works on mac
 
 # Setup!
