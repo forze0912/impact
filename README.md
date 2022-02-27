@@ -2,6 +2,8 @@
 
 A simple progamming language that makes gui easy and fast to make!
 
+In development right now, only updated version on mac
+
 # Setup!
 
 Install the file with the impact.exe
