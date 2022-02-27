@@ -2,7 +2,7 @@
 
 A simple progamming language that makes gui easy and fast to make!
 
-In development right now, only updated version on mac
+In development right now, only works on mac
 
 # Setup!
 
